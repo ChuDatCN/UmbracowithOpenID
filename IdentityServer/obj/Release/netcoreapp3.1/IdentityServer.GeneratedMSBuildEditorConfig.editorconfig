@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = IdentityServer
+build_property.ProjectDir = C:\Users\Admin\Documents\GitHub\Blog-Example-Classes\Umbraco backoffice SSO with OpenID Connect\IdentityServer\
